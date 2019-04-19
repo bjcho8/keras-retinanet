@@ -1,5 +1,5 @@
 left = Sequential()
-left.add(LSTM(...)
+left.add(LSTM(...))
 
 right = Sequential()
 right.add(LSTM(..., go_backwards=True))
